@@ -1,0 +1,27 @@
+|Lab_3
+rst => Ka.IN1
+rst => Ja.IN1
+rst => Jb.IN1
+clk => clk.IN2
+q << jkff1:FF1.port3
+qbar << jkff1:FF1.port4
+qb << jkff1:FF2.port3
+qbbar << jkff1:FF2.port4
+
+
+|Lab_3|jkff1:FF1
+j => Mux0.IN2
+k => Mux0.IN3
+clk => q~reg0.CLK
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+qbar <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Lab_3|jkff1:FF2
+j => Mux0.IN2
+k => Mux0.IN3
+clk => q~reg0.CLK
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+qbar <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+

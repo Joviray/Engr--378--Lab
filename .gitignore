@@ -1,0 +1,11 @@
+*.lib
+
+intelFPGA_lite/18.1/hls/*
+intelFPGA_lite/18.1/db/*
+intelFPGA_lite/18.1/ip/*
+intelFPGA_lite/18.1/licenses/*
+intelFPGA_lite/18.1/logs/*
+intelFPGA_lite/18.1/nios2eds/*
+intelFPGA_lite/18.1/practice/*
+intelFPGA_lite/18.1/quartus/*
+intelFPGA_lite/18.1/uninstall/*

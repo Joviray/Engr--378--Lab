@@ -1,0 +1,22 @@
+// Code your design here
+module jkff1(j,k,clk,q,qbar);
+//Simple JK flip flop IO logic
+
+//Inputs for J K clk and RESET
+input j,k,clk;
+
+//output variables
+output q,qbar;
+
+//Reg required so we can use always @(posedge clk)
+reg q = 0;
+always @(posedge clk)
+    begin case({j,k})
+    2'b00:q<=q;
+    2'b01:q<=1'b0;
+    2'b10:q<=1'b1;
+    2'b11:q<=~q;
+    endcase
+    end
+    assign qbar=~q;
+endmodule
