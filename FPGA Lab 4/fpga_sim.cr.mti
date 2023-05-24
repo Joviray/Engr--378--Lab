@@ -1,0 +1,39 @@
+{C:/Users/j3241/OneDrive/Documents/Desktop/Documents/GitHub/Engr--378--Lab/FPGA Lab 4/lab4_tb.v} {1 {vlog -work work -stats=none {C:/Users/j3241/OneDrive/Documents/Desktop/Documents/GitHub/Engr--378--Lab/FPGA Lab 4/lab4_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb
+
+Top level modules:
+	tb
+
+} {} {}} {C:/Users/j3241/OneDrive/Documents/Desktop/Documents/GitHub/Engr--378--Lab/FPGA Lab 4/dec_seven.v} {1 {vlog -work work -stats=none {C:/Users/j3241/OneDrive/Documents/Desktop/Documents/GitHub/Engr--378--Lab/FPGA Lab 4/dec_seven.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module dec_seven
+
+Top level modules:
+	dec_seven
+
+} {} {}} {C:/Users/j3241/OneDrive/Documents/Desktop/Documents/GitHub/Engr--378--Lab/FPGA Lab 4/hex_seven.v} {1 {vlog -work work -stats=none {C:/Users/j3241/OneDrive/Documents/Desktop/Documents/GitHub/Engr--378--Lab/FPGA Lab 4/hex_seven.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module hex_seven
+
+Top level modules:
+	hex_seven
+
+} {} {}} {C:/Users/j3241/OneDrive/Documents/Desktop/Documents/GitHub/Engr--378--Lab/FPGA Lab 4/bcd_seven.v} {1 {vlog -work work -stats=none {C:/Users/j3241/OneDrive/Documents/Desktop/Documents/GitHub/Engr--378--Lab/FPGA Lab 4/bcd_seven.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module bcd_seven
+
+Top level modules:
+	bcd_seven
+
+} {} {}} {C:/Users/j3241/OneDrive/Documents/Desktop/Documents/GitHub/Engr--378--Lab/FPGA Lab 4/Lab4.v} {0 {vlog -work work -stats=none {C:/Users/j3241/OneDrive/Documents/Desktop/Documents/GitHub/Engr--378--Lab/FPGA Lab 4/Lab4.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Lab4
+** Error (suppressible): C:/Users/j3241/OneDrive/Documents/Desktop/Documents/GitHub/Engr--378--Lab/FPGA Lab 4/Lab4.v(10): (vlog-2388) 'hout' already declared in this scope (Lab4).
+** Error (suppressible): C:/Users/j3241/OneDrive/Documents/Desktop/Documents/GitHub/Engr--378--Lab/FPGA Lab 4/Lab4.v(10): (vlog-2388) 'bout' already declared in this scope (Lab4).
+** Error (suppressible): C:/Users/j3241/OneDrive/Documents/Desktop/Documents/GitHub/Engr--378--Lab/FPGA Lab 4/Lab4.v(10): (vlog-2388) 'dout' already declared in this scope (Lab4).
+** Error (suppressible): C:/Users/j3241/OneDrive/Documents/Desktop/Documents/GitHub/Engr--378--Lab/FPGA Lab 4/Lab4.v(11): (vlog-2388) 'hin' already declared in this scope (Lab4).
+** Error (suppressible): C:/Users/j3241/OneDrive/Documents/Desktop/Documents/GitHub/Engr--378--Lab/FPGA Lab 4/Lab4.v(11): (vlog-2388) 'bin' already declared in this scope (Lab4).
+** Error (suppressible): C:/Users/j3241/OneDrive/Documents/Desktop/Documents/GitHub/Engr--378--Lab/FPGA Lab 4/Lab4.v(11): (vlog-2388) 'din' already declared in this scope (Lab4).
+
+} {} {}}

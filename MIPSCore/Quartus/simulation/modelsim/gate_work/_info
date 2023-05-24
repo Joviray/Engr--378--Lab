@@ -1,0 +1,78 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/tsheaves/Documents/ENGR378/SP2020Final/MIPSCore/Quartus/simulation/modelsim
+vhard_block
+Z1 !s110 1586119074
+!i10b 1
+!s100 me>V29f93AW^N4J3=4KoX0
+I5=PRHN9<zfaRR8RmL6Bk13
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1586118913
+Z4 8MIPSCore_7_1200mv_85c_slow.vo
+Z5 FMIPSCore_7_1200mv_85c_slow.vo
+L0 1316
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1586119074.000000
+Z8 !s107 MIPSCore_7_1200mv_85c_slow.vo|
+Z9 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+.|MIPSCore_7_1200mv_85c_slow.vo|
+!i113 1
+Z10 o-vlog01compat -work work
+Z11 !s92 -vlog01compat -work work +incdir+.
+Z12 tCvgOpt 0
+vROM
+R1
+!i10b 1
+!s100 O1Ne6doR;nPbWNS5@4db03
+I9<kXJO79KMgR]oOlVkEM@3
+R2
+R0
+R3
+R4
+R5
+L0 31
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@r@o@m
+vtb_ROM
+R1
+!i10b 1
+!s100 Ln5OTELP[H^0WV[Jce?7o3
+IUik=;;c;=hP?@K:jbM=PW2
+R2
+R0
+w1586118387
+8C:/Users/tsheaves/Documents/ENGR378/SP2020Final/MIPSCore/Quartus/../Testbenches/ROMtb.v
+FC:/Users/tsheaves/Documents/ENGR378/SP2020Final/MIPSCore/Quartus/../Testbenches/ROMtb.v
+L0 2
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/tsheaves/Documents/ENGR378/SP2020Final/MIPSCore/Quartus/../Testbenches/ROMtb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/tsheaves/Documents/ENGR378/SP2020Final/MIPSCore/Quartus/../Testbenches|C:/Users/tsheaves/Documents/ENGR378/SP2020Final/MIPSCore/Quartus/../Testbenches/ROMtb.v|
+!i113 1
+R10
+!s92 -vlog01compat -work work +incdir+C:/Users/tsheaves/Documents/ENGR378/SP2020Final/MIPSCore/Quartus/../Testbenches
+R12
+ntb_@r@o@m

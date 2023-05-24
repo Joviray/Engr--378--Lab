@@ -1,0 +1,87 @@
+# Copyright (C) 2018  Intel Corporation. All rights reserved.
+# Your use of Intel Corporation's design tools, logic functions 
+# and other software and tools, and its AMPP partner logic 
+# functions, and any output files from any of the foregoing 
+# (including device programming or simulation files), and any 
+# associated documentation or information are expressly subject 
+# to the terms and conditions of the Intel Program License 
+# Subscription Agreement, the Intel Quartus Prime License Agreement,
+# the Intel FPGA IP License Agreement, or other applicable license
+# agreement, including, without limitation, that your use is for
+# the sole purpose of programming logic devices manufactured by
+# Intel and sold by Intel or its authorized distributors.  Please
+# refer to the applicable agreement for further details.
+
+# Quartus Prime Version 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+# File: C:\Users\tsheaves\Documents\ENGR378\SP2020Final\MIPSCore\PinAssignment\MIPSCore.csv
+# Generated on: Thu Apr 30 21:44:49 2020
+
+# Note: The column header names should not be changed if you wish to import this .csv file into the Quartus Prime software.
+
+To,Direction,Location,I/O Bank,VREF Group,Fitter Location,I/O Standard,Reserved,Current Strength,Slew Rate,Differential Pair,Strict Preservation
+QSEL,Input,PIN_Y24,5,B5_N2,PIN_AF13,,,,,,
+QUERY[6],Input,PIN_AD26,5,B5_N2,PIN_AF25,,,,,,
+QUERY[5],Input,PIN_AC26,5,B5_N2,PIN_AE21,,,,,,
+QUERY[4],Input,PIN_AB27,5,B5_N1,PIN_AE20,,,,,,
+QUERY[3],Input,PIN_AD27,5,B5_N2,PIN_AG23,,,,,,
+QUERY[2],Input,PIN_AC27,5,B5_N2,PIN_AH23,,,,,,
+QUERY[1],Input,PIN_AC28,5,B5_N2,PIN_AA17,,,,,,
+QUERY[0],Input,PIN_AB28,5,B5_N1,PIN_AF26,,,,,,
+clk,Input,PIN_Y2,2,B2_N0,PIN_J1,,,,,,
+rst,Input,PIN_Y23,5,B5_N2,PIN_AF24,,,,,,
+seg0[6],Output,PIN_H22,6,B6_N0,PIN_F17,,,,,,
+seg0[5],Output,PIN_J22,6,B6_N0,PIN_G15,,,,,,
+seg0[4],Output,PIN_L25,6,B6_N1,PIN_G18,,,,,,
+seg0[3],Output,PIN_L26,6,B6_N1,PIN_H16,,,,,,
+seg0[2],Output,PIN_E17,7,B7_N2,PIN_H17,,,,,,
+seg0[1],Output,PIN_F22,7,B7_N0,PIN_G16,,,,,,
+seg0[0],Output,PIN_G18,7,B7_N2,PIN_E17,,,,,,
+seg1[6],Output,PIN_U24,5,B5_N0,PIN_AG21,,,,,,
+seg1[5],Output,PIN_U23,5,B5_N1,PIN_AA15,,,,,,
+seg1[4],Output,PIN_W25,5,B5_N1,PIN_AE17,,,,,,
+seg1[3],Output,PIN_W22,5,B5_N0,PIN_AF17,,,,,,
+seg1[2],Output,PIN_W21,5,B5_N1,PIN_AG18,,,,,,
+seg1[1],Output,PIN_Y22,5,B5_N0,PIN_AH18,,,,,,
+seg1[0],Output,PIN_M24,6,B6_N2,PIN_AB15,,,,,,
+seg2[6],Output,PIN_W28,5,B5_N1,PIN_AD17,,,,,,
+seg2[5],Output,PIN_W27,5,B5_N1,PIN_AH22,,,,,,
+seg2[4],Output,PIN_Y26,5,B5_N1,PIN_AG22,,,,,,
+seg2[3],Output,PIN_W26,5,B5_N1,PIN_AF18,,,,,,
+seg2[2],Output,PIN_Y25,5,B5_N1,PIN_G20,,,,,,
+seg2[1],Output,PIN_AA26,5,B5_N1,PIN_AC17,,,,,,
+seg2[0],Output,PIN_AA25,5,B5_N1,PIN_AH21,,,,,,
+seg3[6],Output,PIN_Y19,4,B4_N0,PIN_Y12,,,,,,
+seg3[5],Output,PIN_AF23,4,B4_N0,PIN_Y13,,,,,,
+seg3[4],Output,PIN_AD24,4,B4_N0,PIN_AA12,,,,,,
+seg3[3],Output,PIN_AA21,4,B4_N0,PIN_AD15,,,,,,
+seg3[2],Output,PIN_AB20,4,B4_N0,PIN_AC14,,,,,,
+seg3[1],Output,PIN_U21,5,B5_N0,PIN_AD14,,,,,,
+seg3[0],Output,PIN_V21,5,B5_N1,PIN_AC15,,,,,,
+seg4[6],Output,PIN_AE18,4,B4_N2,PIN_AG19,,,,,,
+seg4[5],Output,PIN_AF19,4,B4_N1,PIN_AB16,,,,,,
+seg4[4],Output,PIN_AE19,4,B4_N1,PIN_AF16,,,,,,
+seg4[3],Output,PIN_AH21,4,B4_N2,PIN_AH19,,,,,,
+seg4[2],Output,PIN_AG21,4,B4_N2,PIN_AA16,,,,,,
+seg4[1],Output,PIN_AA19,4,B4_N0,PIN_AH17,,,,,,
+seg4[0],Output,PIN_AB19,4,B4_N0,PIN_AE16,,,,,,
+seg5[6],Output,PIN_AH18,4,B4_N2,PIN_AF15,,,,,,
+seg5[5],Output,PIN_AF18,4,B4_N1,PIN_Y15,,,,,,
+seg5[4],Output,PIN_AG19,4,B4_N2,PIN_Y14,,,,,,
+seg5[3],Output,PIN_AH19,4,B4_N2,PIN_AE15,,,,,,
+seg5[2],Output,PIN_AB18,4,B4_N0,PIN_AG17,,,,,,
+seg5[1],Output,PIN_AC18,4,B4_N1,PIN_AB14,,,,,,
+seg5[0],Output,PIN_AD18,4,B4_N1,PIN_AA13,,,,,,
+seg6[6],Output,PIN_AC17,4,B4_N2,PIN_D16,,,,,,
+seg6[5],Output,PIN_AA15,4,B4_N2,PIN_B17,,,,,,
+seg6[4],Output,PIN_AB15,4,B4_N2,PIN_A17,,,,,,
+seg6[3],Output,PIN_AB17,4,B4_N1,PIN_F15,,,,,,
+seg6[2],Output,PIN_AA16,4,B4_N2,PIN_C16,,,,,,
+seg6[1],Output,PIN_AB16,4,B4_N2,PIN_H15,,,,,,
+seg6[0],Output,PIN_AA17,4,B4_N1,PIN_J15,,,,,,
+seg7[6],Output,PIN_AA14,3,B3_N0,PIN_AH12,,,,,,
+seg7[5],Output,PIN_AG18,4,B4_N2,PIN_AC11,,,,,,
+seg7[4],Output,PIN_AF17,4,B4_N2,PIN_AE14,,,,,,
+seg7[3],Output,PIN_AH17,4,B4_N2,PIN_AG12,,,,,,
+seg7[2],Output,PIN_AG17,4,B4_N2,PIN_AA14,,,,,,
+seg7[1],Output,PIN_AE17,4,B4_N2,PIN_AF14,,,,,,
+seg7[0],Output,PIN_AD17,4,B4_N2,PIN_AD11,,,,,,

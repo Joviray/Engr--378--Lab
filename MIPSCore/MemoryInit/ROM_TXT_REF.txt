@@ -1,0 +1,10 @@
+addi $s0 zero 0x04AC    # s0=loop_timeout
+addi $t0 zero 0x0000    # t0=0
+addi $t0 $t0  0x0001    # t0++
+addi $t1 zero 0x0000    # t1 = 0
+addi $t1 $t1  0x0001    # t1++
+addi $t2 zero 0x0000    # t2 = 0
+addi $t2 $t2  0x0001    # t2++
+beq  $t2 $s0  0xFFFC    # if($t2 == $s0)PC=(PC+4)+(4x(-4))
+beq  $t1 $s0  0xFFF9    # if($t1 == $s0)PC=(PC+4)+(4x(-7))
+j    0x0000006          # PC = 4*(0x6)

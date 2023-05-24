@@ -1,0 +1,94 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1/Lab2_sim
+vbcd_seven
+Z0 !s110 1683584177
+!i10b 1
+!s100 mV4YSkV`[hQe=9h9HYSc80
+IBkfj`0B3Z46;FT>8]RDUE1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/j3241/OneDrive/Documents/Desktop/Documents/GitHub/Engr--378--Lab/FPGA Lab 4
+w1680554242
+8C:/Users/j3241/OneDrive/Documents/Desktop/Documents/GitHub/Engr--378--Lab/FPGA Lab 4/bcd_seven.v
+FC:/Users/j3241/OneDrive/Documents/Desktop/Documents/GitHub/Engr--378--Lab/FPGA Lab 4/bcd_seven.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1683584177.000000
+!s107 C:/Users/j3241/OneDrive/Documents/Desktop/Documents/GitHub/Engr--378--Lab/FPGA Lab 4/bcd_seven.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/j3241/OneDrive/Documents/Desktop/Documents/GitHub/Engr--378--Lab/FPGA Lab 4/bcd_seven.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vdec_seven
+R0
+!i10b 1
+!s100 Eg<3^24kARZ597b3Dd[5K3
+I[<2JZId=8flBi>5CW]oQD3
+R1
+R2
+w1680554262
+8C:/Users/j3241/OneDrive/Documents/Desktop/Documents/GitHub/Engr--378--Lab/FPGA Lab 4/dec_seven.v
+FC:/Users/j3241/OneDrive/Documents/Desktop/Documents/GitHub/Engr--378--Lab/FPGA Lab 4/dec_seven.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/j3241/OneDrive/Documents/Desktop/Documents/GitHub/Engr--378--Lab/FPGA Lab 4/dec_seven.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/j3241/OneDrive/Documents/Desktop/Documents/GitHub/Engr--378--Lab/FPGA Lab 4/dec_seven.v|
+!i113 1
+R5
+R6
+vhex_seven
+R0
+!i10b 1
+!s100 ah@dG>Yz>zzNSOVdW?Ye20
+If58ToBD76]ZR;M@oIe87=1
+R1
+R2
+w1680211726
+8C:/Users/j3241/OneDrive/Documents/Desktop/Documents/GitHub/Engr--378--Lab/FPGA Lab 4/hex_seven.v
+FC:/Users/j3241/OneDrive/Documents/Desktop/Documents/GitHub/Engr--378--Lab/FPGA Lab 4/hex_seven.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/j3241/OneDrive/Documents/Desktop/Documents/GitHub/Engr--378--Lab/FPGA Lab 4/hex_seven.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/j3241/OneDrive/Documents/Desktop/Documents/GitHub/Engr--378--Lab/FPGA Lab 4/hex_seven.v|
+!i113 1
+R5
+R6
+vtb
+!s110 1683584178
+!i10b 1
+!s100 l7069=F57lM?9<MMjVQOB1
+IDQBn3O0?M<[7[4OeNIFeU3
+R1
+R2
+w1683584154
+8C:/Users/j3241/OneDrive/Documents/Desktop/Documents/GitHub/Engr--378--Lab/FPGA Lab 4/lab4_tb.v
+FC:/Users/j3241/OneDrive/Documents/Desktop/Documents/GitHub/Engr--378--Lab/FPGA Lab 4/lab4_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1683584178.000000
+!s107 C:/Users/j3241/OneDrive/Documents/Desktop/Documents/GitHub/Engr--378--Lab/FPGA Lab 4/lab4_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/j3241/OneDrive/Documents/Desktop/Documents/GitHub/Engr--378--Lab/FPGA Lab 4/lab4_tb.v|
+!i113 1
+R5
+R6
